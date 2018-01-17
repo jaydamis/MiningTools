@@ -1,5 +1,5 @@
 #!/bin/bash
-#set all video card fan speeds
+#set all video card fan speeds (nVidia Cards)
 
 FANSPEED=$1
 
